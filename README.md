@@ -1,8 +1,8 @@
 # lectureEvaluation
 
-동빈나의 강의평가 따라만들기
+동빈나의 강의평가 따라만들기<br>
 
-gmail 본인걸로 
+특이상항: gmail 본인걸로 변경<br>
 
 회원가입기능<br>
 이메일인증기능<br>
